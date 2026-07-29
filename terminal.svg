@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="949" height="500" viewBox="0 0 949 500" role="img" aria-label="chloe terminal with capybara">
+<style>
+text { fill: #c9d1d9; }
+.capy { fill: #b08850; }
+.cursor { fill: #c9d1d9; }
+@media (prefers-color-scheme: light) {
+  text { fill: #24292f; }
+  .capy { fill: #8a6a3a; }
+  .cursor { fill: #24292f; }
+}
+</style>
+<text xml:space="preserve" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">
+<tspan x="10" y="23"> ╭────────────────────────────────────────────────────────────────╮<tspan class="capy">                    # %        .:.</tspan></tspan>
+<tspan x="10" y="39"> │ <tspan fill="#ff5f56">●</tspan> <tspan fill="#ffbd2e">●</tspan> <tspan fill="#27c93f">●</tspan>                                            chloe ~ zsh   │<tspan class="capy">                            #%+++++*@.</tspan></tspan>
+<tspan x="10" y="55"> ├────────────────────────────────────────────────────────────────┤<tspan class="capy">            =.%:*%@%%%%@#+.%+++++++++#=</tspan></tspan>
+<tspan x="10" y="71"> │                                                                │<tspan class="capy">   .*#*.  :%@--------------@+++++*%+++#</tspan></tspan>
+<tspan x="10" y="87"> │ $ chloe --help                                                 │<tspan class="capy"> @*+++++@*-------------------=++++++@*</tspan></tspan>
+<tspan x="10" y="103"> │                                                                │<tspan class="capy">@+++++@=-------------------------==--=@:</tspan></tspan>
+<tspan x="10" y="119"> │ software engineer · lyra · melbourne                           │<tspan class="capy">@+++%+---------------------------------+#</tspan></tspan>
+<tspan x="10" y="135"> │ usage: chloe [--deep-end] &lt;new-domain&gt;                         │<tspan class="capy">.@*%=-----------------------------------==-</tspan></tspan>
+<tspan x="10" y="151"> │                                                                │<tspan class="capy">  %=-------------------------------------+%#</tspan></tspan>
+<tspan x="10" y="167"> │ commands:                                                      │<tspan class="capy"> .%------------------/=-------------------#=</tspan></tspan>
+<tspan x="10" y="183"> │   ship       end-to-end                                        │<tspan class="capy"> .#-=##-------------#%%--------------------%-</tspan></tspan>
+<tspan x="10" y="199"> │   frontend   typescript · next.js · react · remix              │<tspan class="capy"> =*--=%@=*+++#++++=-------+$$---------------%:</tspan></tspan>
+<tspan x="10" y="215"> │              tailwind · d3                                     │<tspan class="capy">@=====++++*+#+++++++=-----$$-----------------%.</tspan></tspan>
+<tspan x="10" y="231"> │   backend    python · fastapi · rest apis                      <tspan class="capy">%-$$:++++++#*++++++++++------------------------%.</tspan></tspan>
+<tspan x="10" y="247"> │   database   postgresql · supabase · dbt                      <tspan class="capy">-#==$$++++++%++++++++++++------------------------%-</tspan></tspan>
+<tspan x="10" y="263"> │   ai         llm apis · embeddings                           <tspan class="capy">-*----+++++++%++++++++++++=------------------------+%</tspan></tspan>
+<tspan x="10" y="279"> │              vector search                                   <tspan class="capy">.*----+++++++*%+++++++++++=--------------------------@.</tspan></tspan>
+<tspan x="10" y="295"> │   infra      vercel · railway · graphite                      <tspan class="capy">++---=++++++++*+++++++*@@%@@*------------------------%</tspan></tspan>
+<tspan x="10" y="311"> │              github actions                                    <tspan class="capy">**----++++++++++++++@++++++++#%----------------------</tspan></tspan>
+<tspan x="10" y="327"> │                                                              <tspan class="capy">.@#+@+-----++++++++++*#+++++++++-#---------------------</tspan></tspan>
+<tspan x="10" y="343"> │ off-duty commands:                                          <tspan class="capy">%+++++#@*=------------@++++++++---#--------------------</tspan></tspan>
+<tspan x="10" y="359"> │   lift       many heavy circles                             <tspan class="capy">#++++-----------------=%++++++----@--------------------</tspan></tspan>
+<tspan x="10" y="375"> │   smash      shuttles after shuttles                        <tspan class="capy">+#+---------------------@*++---------------------------</tspan></tspan>
+<tspan x="10" y="391"> │   dance      strut and slay                                   <tspan class="capy">#%=---------------------#%+--------------------------</tspan></tspan>
+<tspan x="10" y="407"> │   cook       macros in, magic out                              │<tspan class="capy"> :+%@@---------------------------------------------</tspan></tspan>
+<tspan x="10" y="423"> │                                                                │<tspan class="capy">     #---------------------------------------------</tspan></tspan>
+<tspan x="10" y="439"> │ $ chloe --motd                                                 │<tspan class="capy">     .%--------------------------------------------</tspan></tspan>
+<tspan x="10" y="455"> │ "the more i learn, the more i realise how much i don't know."  │<tspan class="capy">    .                    ..  :..-: - .-</tspan></tspan>
+<tspan x="10" y="471"> │ $                                                              │<tspan class="capy">   :. ::::.:.:....::..  :::..::::. :</tspan></tspan>
+<tspan x="10" y="487"> ╰────────────────────────────────────────────────────────────────╯</tspan>
+</text>
+<rect class="cursor" x="49" y="459.5" width="7.8" height="14"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.06s" repeatCount="indefinite"/></rect>
+</svg>
