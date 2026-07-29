@@ -1,1 +1,1 @@
-<img src="capy-garden.svg" alt="chloe terminal" width="830">
+<img src="capy-sky.svg" alt="chloe terminal" width="830">
